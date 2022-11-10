@@ -16,6 +16,10 @@ export enum SupportedNetwork {
   DANUBE = 'danube',
   TESTNET = 'testnet',
   MAINNET = 'mainnet',
+  sovrin_builder = 'sovrin:builder',
+  idunion_test = 'idunion:test',
+  indicio_test = 'indicio:test',
+  indicio_demo = 'indicio:demo',
 }
 
 export enum SupportedDidDocumentOperation {
